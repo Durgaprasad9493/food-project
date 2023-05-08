@@ -1,0 +1,235 @@
+/*custom styles*/ 
+.flex{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.brand{
+	display: flex;
+	justify-content: none;
+	align-items: center;
+}
+.hero{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+.head{
+	display: flex;
+	justify-content: space-around;
+}
+.container{
+	width: 1000px;
+	margin: 0 auto;
+}
+/*header*/
+.logo{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.barpic{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	margin-right: 50px;
+}
+.bars{
+	display: none;
+}
+h2{
+	font-size: 24px;
+	font-weight: bold;
+	padding-left: 10px;
+	color: darkred;
+	text-transform: uppercase;
+}
+ul li{
+	list-style: none;
+	padding-top: 8px;
+}
+.active a{
+	color: red;
+}
+ul li a{
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: 500;
+	color: blueviolet;
+    transition: 0.2s ease-in-out;
+}
+ul li a:hover{
+	color: red;
+	transition: 0.3s ease;
+}
+.combine{
+	margin-top: 50px;
+}
+.circle{
+	width: 350px;
+	height: 350px;
+	border-radius: 50%;
+	margin-left: 30px;
+
+}
+.offer {
+	font-size: 12px;
+	color: whitesmoke;
+	background-color: green;
+	padding: 8px 16px;
+	text-decoration: none;
+
+}
+.span{
+	margin-left: -120px;
+	word-spacing: 2px;
+}
+h1{
+	font-size: 42px;
+	font-weight: bold;
+	text-transform: capitalize;
+	width: 350px;
+	letter-spacing: 1.5px;
+}
+h5{
+	font-weight: 300;
+	font-size: 16px;
+	color: gray;
+	width: 250px;
+	margin-top: -15px;
+}
+h3{
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+.style {
+	background-color: darkorange;
+	border: 0;
+	padding: 10px;
+}
+.style a{
+    text-decoration: none;
+	text-transform: upppercase;
+	font-size: 16px;
+	color: whitesmoke;
+}
+.style a:hover{
+	color: darkred;
+	transition: 0.3s ease-in-out;
+}
+.mini-img{
+	width: 100px;
+	margin-right: 8px;
+}
+.line{
+	height: 2px;
+	background-color: lightgray;
+	margin-top: 40px;
+}
+article{
+	margin-top: 40px;
+}
+.btn a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color:whitesmoke;
+	font-size: 16px;
+	border: 0;
+
+}
+.btn{
+	background-color: green;
+	border: 0;
+	padding: 10px;
+
+}
+.btn a:hover{
+	color: darkred;
+}
+.design{
+	color: black;
+	font-size:24px;
+	font-weight:600;
+}
+.middle{
+	text-align: center;
+	margin-top: 50px;
+}
+.container-item{
+	max-width: 800px;
+	margin: 0 auto;
+}
+.item img{
+	padding: 12px;
+	border-radius: 22px;
+}
+.item-space{
+	margin-top: -10px;
+}
+.item-img1{
+	width: 440px;
+	height:300px;
+}
+.item-img2{
+	height: 300px;
+	width: 200px;
+}
+.item-img7{
+	height: 200px;
+	width: 200px;
+}
+.item-img4{
+	height: 200px;
+	width: 208px;
+}
+.item-img5{
+	height: 200px;
+	width: 208px;
+}
+.item-img6{
+	height: 200px;
+	width: 200px;
+}
+.item-img3{
+	height: 300px;
+	width: 200px;
+	margin-top: -100px;
+}
+
+/*footer*/
+footer{
+	background-color:#ffff78;
+	margin-top: 70px;
+}
+.long{
+	width: 850px;
+	margin: 0 auto;
+}
+.logo-min{
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+}
+.mini{
+	color:black;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+h6{
+	font-size: 14px;
+	margin-left: 40px;
+	margin-bottom: -4px;
+
+}
+.para{
+	color: black;
+	font-weight: bold;
+	font-size: 14px;
+}
+.pic{
+	width: 25px;
+	height:25px;
+	border-radius: 50%;
+}
